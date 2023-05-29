@@ -5,6 +5,8 @@ Its key innovations include 4-bit quantization, double quantization, and paged o
 The resulting Guanaco models outperform previous models on the Vicuna benchmark, reaching 99.3% of ChatGPT's performance with only 24 hours of fine-tuning on a single GPU. 
 The researchers also provide an extensive analysis of chatbot performance and release their models and code for further exploration.
 
+
+
 ## Introduction
 
 We introduce QLORA, an efficient method for fine-tuning large language models on limited GPU memory without compromising performance. 
