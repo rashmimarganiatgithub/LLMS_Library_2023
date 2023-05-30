@@ -1,3 +1,7 @@
+
+<img width="446" alt="Screenshot 2023-05-29 at 9 10 17 PM" src="https://github.com/rashmimarganiatgithub/LLMS_in_2023/assets/24475962/d73d27a8-68e2-4fe6-a7ee-88c05eed776d">
+
+
 ## Abstract
 
 QLORA is an efficient method for fine-tuning large language models on limited GPU memory, achieving comparable performance to full precision models. 
@@ -39,6 +43,9 @@ zero-centered normal distributions. Double Quantization reduces memory usage by 
 Using Paged Optimizers, QLORA leverages NVIDIA unified memory feature to manage GPU memory efficiently, automatically 
 transferring data between CPU RAM and GPU memory when needed. In the QLORA definition, a linear layer in the quantized base model with a single LoRA adapter is 
 fine-tuned using the NF4 storage data type, BFloat16 computation data type, and specific block sizes for improved precision and memory conservation.
+
+![b028fa9e-3a23-4259-85b5-0446f5989455_600x439](https://github.com/rashmimarganiatgithub/LLMS_in_2023/assets/24475962/e8f58d42-cbdd-4735-a75b-7103ce978e42)
+
 
 ## QLoRA vs. Standard Finetuning
 
