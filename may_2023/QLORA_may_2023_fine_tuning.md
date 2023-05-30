@@ -71,4 +71,5 @@ Our QLORA finetuning method allows the training of 33B parameter models on a sin
 
 Paper  👉 https://arxiv.org/abs/2305.14314?utm_source=substack&utm_medium=email
 Code & demos 👉 [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA
-](https://huggingface.co/blog/4bit-transformers-bitsandbytes?utm_source=substack&utm_medium=email) [QLORA](https://github.com/artidoro/qlora)
+](https://huggingface.co/blog/4bit-transformers-bitsandbytes?utm_source=substack&utm_medium=email) 
+QLORA github repro 👉 [QLORA](https://github.com/artidoro/qlora)
