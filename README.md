@@ -1,4 +1,7 @@
-# LLMS_Paper_Summary_2023
+#### LLMS Top Paper 2023
+
+![image](https://github.com/rashmimarganiatgithub/LLMS_Library_2023/assets/24475962/b7de87b4-595d-459b-abb8-e4d14b6cc032)
+
 
 LLMS Ecosystem Monthly Papers Updates with Summary Repository.
 
